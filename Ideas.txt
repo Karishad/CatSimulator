@@ -1,0 +1,28 @@
+Cat Simmy Game:
+
+You are a cat in a tile world where you have to go around and complete objectives
+Return to bed for nap after completing objective(s)
+Run from Roomba(s)
+ - If roomba touches you, the level resets
+
+Example Objectives:
+ - Knock over x vases
+ - Jump on owner in bed
+ - Mess with computer 
+ - Beg for food / eat food
+ - Eat x of owners chicken tendies
+ - Chase x birds
+ - Push x over children
+
+Behavior of Roomba:
+ - Implement A* algo (for when you cross your own path)
+
+3 Levels
+ - Different level layouts
+	- Different / # of roombas as difficulty
+
+Features:
+ - Dedicated "meow" button
+ - Move in 4 directions 
+ - You leave a trail (cat hair or paw prints) when you walk
+	 - Endless
